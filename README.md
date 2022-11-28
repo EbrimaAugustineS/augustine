@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebrima Augustine St Louis</h1>
 <h3 align="center">A passionate computer science student from Germany.</h3>
 
-- 🔭 I’m currently working on my Cs50 final project.
+- 🔭 I’m currently working on my Cs50 final project. All necessary info will be written below.
  <h3 align="left"> 
 [App name]Notepad </p>
 [Notepad link](https://youtu.be/N1VSkbGeM_4) </p>
