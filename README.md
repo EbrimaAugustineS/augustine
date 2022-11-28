@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ebrima Augustine St Louis</h1>
 <h3 align="center">A passionate computer science student from Germany.</h3>
 
-- 🔭 I’m currently working on my Cs50 final project I created this application to takes my university notes, project ideas and also personal lyrics for music production.All info about notepad will be written below this. 
+- 🔭 I’m currently working on my Cs50 final project.
  <h3 align="left"> 
-App name:Notepad </p>
-[Notepad link](https://youtu.be/N1VSkbGeM_4)
+[App name]Notepad </p>
+[Notepad link](https://youtu.be/N1VSkbGeM_4) </p>
+[Dsecription] I created this application to takes my university notes, project ideas and also personal lyrics for music production.This is a very secure application and takes little or no spcae, its doesnt require an internet connection and is customisable to the core.
  
 </h3>
 
