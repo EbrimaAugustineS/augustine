@@ -5,7 +5,7 @@
  <h3 align="left"> 
 [App name]Notepad </p>
 [Notepad link](https://youtu.be/N1VSkbGeM_4) </p>
-[Dsecription] I created this application to write my university notes, project ideas and also personal lyrics for music production.This is a very secure application and takes little or no spcae, its doesnt require an internet connection and is customisable to the core.
+[Dsecription] I created this application to write my university notes, project ideas and also personal lyrics for music production.This is a very secure application and takes little or no spcae(20 MB), its doesnt require an internet connection and is customisable to the core.
  
 </h3>
 
