@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Cs50 final project I created this application to takes my university notes, project ideas and also personal lyrics for music production.All info about notepad will be written below this. 
  <h3 align="left"> 
-App name:Notepad
+App name:Notepad </p>
 [Notepad link](https://youtu.be/N1VSkbGeM_4)
  
 </h3>
