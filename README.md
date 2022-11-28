@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Computer science at IU Internationale Hochschule/Berlin/Germany**
 
-- 📫 How to reach me **Luizbryhain@gmail.com**
+- 📫 You can reach me here by email **Luizbryhain@gmail.com**
 
 - ⚡ Fun fact **I am a combat sport athlete.**
 
