@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ebrima Augustine St Louis</h1>
-<h3 align="center">A passionate developer from germany</h3>
+<h3 align="center">A passionate computer science student from Germany.</h3>
+
+- 🔭 I’m currently working on my Cs50 final project. [Notepad](https://youtu.be/N1VSkbGeM_4)
+
+- 🌱 I’m currently learning **Computer science at IU Internationale Hochschule/Berlin/Germany**
 
 - 📫 How to reach me **Luizbryhain@gmail.com**
 
