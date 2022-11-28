@@ -2,8 +2,9 @@
 <h3 align="center">A passionate computer science student from Germany.</h3>
 
 - 🔭 I’m currently working on my Cs50 final project I created this application to takes my university notes, project ideas and also personal lyrics for music production.. [Notepad](https://youtu.be/N1VSkbGeM_4)
-
--<h3 align="left"> ........</h3>
+ <h3 align="left"> 
+  Notepad
+</h3>
 
 - 🌱 I’m currently learning **Computer science at IU Internationale Hochschule/Berlin/Germany**
 
