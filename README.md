@@ -13,7 +13,7 @@
 
 - 📫 You can reach me here by email **Luizbryhain@gmail.com**
 
-- ⚡ Fun fact **I am a combat sport athlete.**
+- ⚡ Fun fact **I am a combat sport athlete, competed once,won once.**
 
 
 <p align="left">
