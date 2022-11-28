@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a combat sport athlete.**
 
-<h3 align="left">....</h3>
+<h3 align="left">....profile subject to change</h3>
 <p align="left">
 </p>
 
